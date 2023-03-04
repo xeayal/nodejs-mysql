@@ -8,4 +8,4 @@ When retrieving data from the database with a GET request, we will use Express.j
 
 If you want to develop an application using Node.js and MySQL, or if you just want to learn more about these technologies, this video is for you!
 
-## Video: <a href="https://www.youtube.com/watch?v=dLKiTOJyOAM">www.youtube.com/watch?v=dLKiTOJyOAM</a>
+## Video: <a href="https://youtu.be/dLKiTOJyOAM">https://youtu.be/dLKiTOJyOAM</a>
