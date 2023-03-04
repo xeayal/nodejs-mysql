@@ -1,4 +1,4 @@
-# Using Node.js and mysql | Creating a Simple API
+# Using MySQL with Node.js | Creating a Simple API 🚀
 
 Hello everyone, in this video, I will show you how to use Node.js and MySQL to perform basic CRUD operations (Create, Read, Update, Delete) by making GET, POST, PUT, and DELETE requests to a database.
 
